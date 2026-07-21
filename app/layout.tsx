@@ -7,13 +7,8 @@ export const metadata: Metadata = {
   description: 'Converse com a Moti AI da MotiVitae',
   generator: 'v0.app',
   icons: {
-    icon: [
-      {
-        url: '/favicon.svg',
-        type: 'image/svg+xml',
-      },
-    ],
-    apple: '/favicon.svg',
+    icon: '/favicon.png',
+    apple: '/favicon.png',
   },
 }
 
